@@ -29,7 +29,7 @@ What's missing: Live EHR environment for end-to-end testing, server-side secret 
 ## What I learned:
 Healthcare API integration requires understanding industry-specific authentication protocols (SMART on FHIR) that extend standard OAuth2. Integration testing is constrained by access to live EHR environments, making development cyclic and dependent on external systems.
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
